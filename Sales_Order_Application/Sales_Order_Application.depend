@@ -1,0 +1,447 @@
+# depslib dependency file v1.0
+1653303800 source:c:\users\golden-tech\desktop\sales_order_application\campany.cpp
+	"Campany.h"
+	<iostream>
+	<string>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<windows.h>
+	<fstream>
+	<unistd.h>
+
+1653303363 c:\users\golden-tech\desktop\sales_order_application\campany.h
+	<string>
+	"Customer.h"
+
+1651764379 source:c:\users\golden-tech\desktop\sales_order_application\cash.cpp
+	"Cash.h"
+	<iostream>
+	<string>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<windows.h>
+	<fstream>
+	<unistd.h>
+	"Payment.h"
+
+1651764531 c:\users\golden-tech\desktop\sales_order_application\cash.h
+	"Payment.h"
+	<string>
+
+1651778558 source:c:\users\golden-tech\desktop\sales_order_application\check.cpp
+	"Check.h"
+	<iostream>
+	<string>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<windows.h>
+	<fstream>
+	<unistd.h>
+	"Payment.h"
+
+1651764553 c:\users\golden-tech\desktop\sales_order_application\check.h
+	<string>
+	"Payment.h"
+
+1652892059 source:c:\users\golden-tech\desktop\sales_order_application\credit.cpp
+	"Credit.h"
+	<iostream>
+	<string>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<windows.h>
+	<fstream>
+	<unistd.h>
+	"Payment.h"
+
+1651764561 c:\users\golden-tech\desktop\sales_order_application\credit.h
+	<string>
+	"Payment.h"
+
+1653240381 source:c:\users\golden-tech\desktop\sales_order_application\customer.cpp
+	"Customer.h"
+	<iostream>
+	<string>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<windows.h>
+	<fstream>
+	<unistd.h>
+	"Person.h"
+	"Campany.h"
+
+1653230299 c:\users\golden-tech\desktop\sales_order_application\customer.h
+	<iostream>
+	<string>
+
+1653303456 source:c:\users\golden-tech\desktop\sales_order_application\customers.cpp
+	"Customers.h"
+	<string>
+	<iostream>
+	"Customer.h"
+	"Person.h"
+	"Campany.h"
+	<iostream>
+	<string>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<windows.h>
+	<fstream>
+	<unistd.h>
+	"Order.h"
+
+1653236466 c:\users\golden-tech\desktop\sales_order_application\customers.h
+	<string>
+	"Customer.h"
+	"Order.h"
+	"Person.h"
+
+1654269031 source:c:\users\golden-tech\desktop\sales_order_application\main.cpp
+	<iostream>
+	"Campany.h"
+	"Customer.h"
+	"Customers.h"
+	"Stock.h"
+	"Transaction.h"
+	"Person.h"
+
+1654265188 source:c:\users\golden-tech\desktop\sales_order_application\order.cpp
+	"Order.h"
+	<iostream>
+	<string>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<windows.h>
+	<fstream>
+	<unistd.h>
+
+1654269030 c:\users\golden-tech\desktop\sales_order_application\order.h
+	<string>
+	"Product.h"
+	"Stock.h"
+	"Customer.h"
+	"Person.h"
+	"Campany.h"
+	"Customers.h"
+
+1652895836 source:c:\users\golden-tech\desktop\sales_order_application\orderitem.cpp
+	"orderItem.h"
+
+1652895738 c:\users\golden-tech\desktop\sales_order_application\orderitem.h
+	<iostream>
+	"Stock.h"
+
+1652894428 source:c:\users\golden-tech\desktop\sales_order_application\payment.cpp
+	"Payment.h"
+	<iostream>
+	<string>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<windows.h>
+	<fstream>
+	<unistd.h>
+	"Credit.h"
+	"Cash.h"
+	"Check.h"
+
+1652892059 c:\users\golden-tech\desktop\sales_order_application\payment.h
+	<string>
+	"Order.h"
+
+1653845316 source:c:\users\golden-tech\desktop\sales_order_application\product.cpp
+	<iostream>
+	"Product.h"
+	<fstream>
+
+1653474302 c:\users\golden-tech\desktop\sales_order_application\product.h
+	<string>
+
+1654265350 source:c:\users\golden-tech\desktop\sales_order_application\stock.cpp
+	"iostream"
+	"cstring"
+	"Stock.h"
+	<fstream>
+
+1653308454 c:\users\golden-tech\desktop\sales_order_application\stock.h
+	"Product.h"
+	"iostream"
+	<vector>
+
+1652713946 source:c:\users\golden-tech\desktop\sales_order_application\transaction.cpp
+	"Transaction.h"
+	"Order.h"
+	"Payment.h"
+	<iostream>
+	<string>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<windows.h>
+	<fstream>
+	<unistd.h>
+	"Order.h"
+	"Person.h"
+
+1652697025 c:\users\golden-tech\desktop\sales_order_application\transaction.h
+	<string>
+
+1654119119 source:c:\users\golden-tech\desktop\sales_order_application\person.cpp
+	"Person.h"
+	<iostream>
+	<string>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<windows.h>
+	<fstream>
+	<unistd.h>
+
+1653303232 c:\users\golden-tech\desktop\sales_order_application\person.h
+	"Customer.h"
+	<string>
+
+1654376752 source:c:\users\ram\desktop\sales_order_application\campany.cpp
+	"Campany.h"
+	<iostream>
+	<string>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<windows.h>
+	<fstream>
+	<unistd.h>
+
+1654356435 c:\users\ram\desktop\sales_order_application\campany.h
+	<string>
+	"Customer.h"
+
+1653230299 c:\users\ram\desktop\sales_order_application\customer.h
+	<iostream>
+	<string>
+
+1651764379 source:c:\users\ram\desktop\sales_order_application\cash.cpp
+	"Cash.h"
+	<iostream>
+	<string>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<windows.h>
+	<fstream>
+	<unistd.h>
+	"Payment.h"
+
+1654360809 c:\users\ram\desktop\sales_order_application\cash.h
+	"Payment.h"
+	<string>
+
+1654361070 c:\users\ram\desktop\sales_order_application\payment.h
+	<string>
+	"Order.h"
+
+1651778558 source:c:\users\ram\desktop\sales_order_application\check.cpp
+	"Check.h"
+	<iostream>
+	<string>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<windows.h>
+	<fstream>
+	<unistd.h>
+	"Payment.h"
+
+1654360828 c:\users\ram\desktop\sales_order_application\check.h
+	<string>
+	"Payment.h"
+
+1652892059 source:c:\users\ram\desktop\sales_order_application\credit.cpp
+	"Credit.h"
+	<iostream>
+	<string>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<windows.h>
+	<fstream>
+	<unistd.h>
+	"Payment.h"
+
+1654360828 c:\users\ram\desktop\sales_order_application\credit.h
+	<string>
+	"Payment.h"
+
+1653303456 source:c:\users\ram\desktop\sales_order_application\customers.cpp
+	"Customers.h"
+	<string>
+	<iostream>
+	"Customer.h"
+	"Person.h"
+	"Campany.h"
+	<iostream>
+	<string>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<windows.h>
+	<fstream>
+	<unistd.h>
+	"Order.h"
+
+1654372398 c:\users\ram\desktop\sales_order_application\customers.h
+	<string>
+	"Customer.h"
+	"Order.h"
+	"Person.h"
+
+1654361025 c:\users\ram\desktop\sales_order_application\order.h
+	<string>
+	"Product.h"
+	"Stock.h"
+	"Customer.h"
+	"Person.h"
+	"Campany.h"
+	"Customers.h"
+
+1654355849 c:\users\ram\desktop\sales_order_application\person.h
+	"Customer.h"
+	<string>
+
+1654354067 source:c:\users\ram\desktop\sales_order_application\order.cpp
+	"Order.h"
+	<iostream>
+	<string>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<windows.h>
+	<fstream>
+	<unistd.h>
+
+1652895836 source:c:\users\ram\desktop\sales_order_application\orderitem.cpp
+	"orderItem.h"
+
+1654375354 c:\users\ram\desktop\sales_order_application\orderitem.h
+	<iostream>
+	"Stock.h"
+
+1654350804 source:c:\users\ram\desktop\sales_order_application\payment.cpp
+	"Payment.h"
+	<iostream>
+	<string>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<windows.h>
+	<fstream>
+	<unistd.h>
+	"Credit.h"
+	"Cash.h"
+	"Check.h"
+
+1654358750 source:c:\users\ram\desktop\sales_order_application\product.cpp
+	<iostream>
+	"Product.h"
+	<fstream>
+
+1654361095 c:\users\ram\desktop\sales_order_application\product.h
+	<string>
+
+1654360029 source:c:\users\ram\desktop\sales_order_application\stock.cpp
+	"iostream"
+	"cstring"
+	"Stock.h"
+	<fstream>
+
+1654375365 c:\users\ram\desktop\sales_order_application\stock.h
+	"Product.h"
+	"iostream"
+	<vector>
+
+1654360732 source:c:\users\ram\desktop\sales_order_application\transaction.cpp
+	"Transaction.h"
+	"Order.h"
+	"Payment.h"
+	<iostream>
+	<string>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<windows.h>
+	<fstream>
+	<unistd.h>
+	"Order.h"
+	"Person.h"
+	<ctime>
+
+1654357922 c:\users\ram\desktop\sales_order_application\transaction.h
+	<string>
+
+1653240381 source:c:\users\ram\desktop\sales_order_application\customer.cpp
+	"Customer.h"
+	<iostream>
+	<string>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<windows.h>
+	<fstream>
+	<unistd.h>
+	"Person.h"
+	"Campany.h"
+
+1654360640 source:c:\users\ram\desktop\sales_order_application\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<cstring>
+	<bits/stdc++.h>
+	<windows.h>
+	"Customers.h"
+	"Product.h"
+	"Stock.h"
+	"Transaction.h"
+	"Customer.h"
+	"Person.h"
+	"Campany.h"
+	"Payment.h"
+
+1654360809 source:c:\users\ram\desktop\sales_order_application\person.cpp
+	"Person.h"
+	<iostream>
+	<string>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<windows.h>
+	<fstream>
+	<unistd.h>
+
